@@ -23,7 +23,7 @@ export default function Hero() {
 
           <div className=" relative aspect-video rounded-2xl overflow-hidden shadow-xl">
             <video
-              src="src/assets/video/1.mp4"
+              src="/videos/1.mp4"
               title="Student AI Homework Helper Demo"
               autoPlay
               controls
