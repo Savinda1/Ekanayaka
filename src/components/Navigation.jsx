@@ -22,10 +22,10 @@ function Navigation() {
             <Link to="/" className="hover:text-yellow-300 transition-colors">
               Home
             </Link>
-            <Link to="/Register" className="hover:text-yellow-300 transition-colors">
+            <Link to="/" className="hover:text-yellow-300 transition-colors">
               Oder Now
             </Link>
-            <Link to="/About" className="hover:text-yellow-300 transition-colors">
+            <Link to="/" className="hover:text-yellow-300 transition-colors">
               product
             </Link>
           </div>
