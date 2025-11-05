@@ -37,11 +37,12 @@ export default function ceo() {
 
       {/* ✅ Right Image */}
       <div className="flex-1 flex justify-center">
-        <img
-          src="public/images/11.png"
-          alt="Student using AI Summarizer"
-          className=" sm:w-[600px]"
-        />
+     <img
+   src="/images/11.png"
+  alt="Ekanayaka Spices"
+  className="sm:w-[600px]"
+/>
+
       </div>
     </section>
   );
