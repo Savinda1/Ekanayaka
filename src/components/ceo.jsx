@@ -38,7 +38,7 @@ export default function ceo() {
       {/* ✅ Right Image */}
       <div className="flex-1 flex justify-center">
         <img
-          src="src/assets/video/11.png"
+          src="src/assets/video/10.jpg"
           alt="Student using AI Summarizer"
           className=" sm:w-[600px]"
         />
