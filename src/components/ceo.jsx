@@ -38,7 +38,7 @@ export default function ceo() {
       {/* ✅ Right Image */}
       <div className="flex-1 flex justify-center">
      <img
-   src="/images/11.png"
+   src="/images/10.jpg"
   alt="Ekanayaka Spices"
   className="sm:w-[600px]"
 />
